@@ -15,4 +15,4 @@
 ### 2.Prepare the test file including fizzbuzz_spec.js & index.html
 ### 3.Open the index.html in the browser to see the test situation
 
-![image]
+![image](https://raw.githubusercontent.com/a62262002/FizzBuzz-Test/master/Image%201.jpg)
